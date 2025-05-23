@@ -1,0 +1,10 @@
+{
+  "name": "n8n-on-zeabur",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npx n8n"
+  },
+  "dependencies": {
+    "n8n": "^1.41.0"
+  }
+}
